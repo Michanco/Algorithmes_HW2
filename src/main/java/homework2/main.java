@@ -1,7 +1,5 @@
 package homework2;
 
-//public class main {
-//}
 import java.util.Arrays;
 
 class Main {
